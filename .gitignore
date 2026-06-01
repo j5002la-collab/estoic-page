@@ -1,0 +1,15 @@
+# Credenciales de Facebook - NUNCA SUBIR
+.env
+
+# Progreso de publicación (se genera automáticamente)
+state.json
+
+# Logs
+publish.log
+
+# Posts generados
+output/
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,802 @@
+[
+  {
+    "day": 1,
+    "quote": "No son las cosas las que perturban a los hombres, sino las opiniones que tienen de ellas.",
+    "author": "Epicteto",
+    "reflection": "Cada vez que algo te moleste, pregúntate: ¿es el hecho o mi interpretación? El 90% de tu sufrimiento viene de la historia que te cuentas. Cambia la narrativa y cambiarás tu realidad.",
+    "hashtags": "#estoicismo #Epicteto #pazinterior #mindset #filosofia #sabiduria",
+    "category": "control"
+  },
+  {
+    "day": 2,
+    "quote": "De lo que hay que ocuparse es de lo que depende de nosotros. Lo demás, aceptarlo con serenidad.",
+    "author": "Epicteto",
+    "reflection": "Divide tu lista de preocupaciones en dos columnas: lo que puedes controlar y lo que no. Dedica el 100% de tu energía a la primera columna. La segunda, simplemente suéltala.",
+    "hashtags": "#estoicismo #control #serenidad #crecimientopersonal #Epicteto",
+    "category": "control"
+  },
+  {
+    "day": 3,
+    "quote": "No busques que los acontecimientos sucedan como deseas, sino desea que sucedan como suceden, y serás feliz.",
+    "author": "Epicteto",
+    "reflection": "La felicidad no es que todo salga como planeaste. Es aprender a fluir con lo que la vida te presenta. Hoy, practica aceptar una cosa que no salió como esperabas.",
+    "hashtags": "#estoicismo #felicidad #aceptacion #filosofiadevida #Epicteto",
+    "category": "control"
+  },
+  {
+    "day": 4,
+    "quote": "La felicidad de tu vida depende de la calidad de tus pensamientos.",
+    "author": "Marco Aurelio",
+    "reflection": "Vigila lo que te dices a ti mismo. Eres tu interlocutor más frecuente. Si tu diálogo interno es tóxico, tu vida lo reflejará. Cultiva pensamientos que te eleven.",
+    "hashtags": "#estoicismo #MarcoAurelio #pensamientos #felicidad #mindsetpositivo",
+    "category": "mindset"
+  },
+  {
+    "day": 5,
+    "quote": "No te dejes arrastrar por las apariencias. Ayuda a los hombres, a tus semejantes, mientras vivas.",
+    "author": "Marco Aurelio",
+    "reflection": "Ayudar a otros no es solo altruismo: es una inversión en tu propio sentido de propósito. Hoy haz una cosa por alguien sin esperar nada a cambio.",
+    "hashtags": "#estoicismo #MarcoAurelio #altruismo #proposito #bondad",
+    "category": "service"
+  },
+  {
+    "day": 6,
+    "quote": "Importa mucho más lo que piensas de ti mismo que lo que los demás opinen de ti.",
+    "author": "Séneca",
+    "reflection": "Pasas demasiado tiempo preocupándote por lo que otros piensan, cuando ellos están demasiado ocupados pensando en sí mismos. Libérate de esa carga.",
+    "hashtags": "#estoicismo #Séneca #autoestima #confianza #libertad",
+    "category": "self"
+  },
+  {
+    "day": 7,
+    "quote": "El hombre que sufre antes de lo necesario sufre más de lo necesario.",
+    "author": "Séneca",
+    "reflection": "La ansiedad es el interés que pagas por problemas que tal vez nunca lleguen. Hoy, cuando tu mente viaje al futuro a preocuparse, tráela de vuelta al presente.",
+    "hashtags": "#estoicismo #Séneca #ansiedad #presente #mindfulness",
+    "category": "anxiety"
+  },
+  {
+    "day": 8,
+    "quote": "El impedimento a la acción se convierte en la acción. El obstáculo es el camino.",
+    "author": "Marco Aurelio",
+    "reflection": "Cada obstáculo que enfrentas es una oportunidad disfrazada de entrenamiento. Lo que te bloquea te está enseñando la lección exacta que necesitas aprender ahora.",
+    "hashtags": "#estoicismo #MarcoAurelio #resiliencia #obstaculo #crecimiento",
+    "category": "resilience"
+  },
+  {
+    "day": 9,
+    "quote": "No es que tengamos poco tiempo, es que perdemos mucho.",
+    "author": "Séneca",
+    "reflection": "¿Cuántas horas perdiste esta semana en redes sociales o preocupándote? El tiempo es el único recurso que no se recupera. Úsalo como si fuera oro.",
+    "hashtags": "#estoicismo #Séneca #tiempo #productividad #vidaplena",
+    "category": "time"
+  },
+  {
+    "day": 10,
+    "quote": "La dificultad es lo que despierta al genio.",
+    "author": "Epicteto",
+    "reflection": "Sin resistencia no hay músculo. Sin desafíos no hay carácter. Deja de quejarte de lo difícil y agradece que la vida te está dando la oportunidad de volverte más fuerte.",
+    "hashtags": "#estoicismo #Epicteto #dificultad #fortaleza #superacion",
+    "category": "resilience"
+  },
+  {
+    "day": 11,
+    "quote": "No desprecies la muerte; recíbela con agrado, pues es una de las cosas que la naturaleza quiere.",
+    "author": "Marco Aurelio",
+    "reflection": "Recordar que vas a morir no es deprimente; es liberador. Te recuerda que no tienes tiempo para tonterías, para rencores, para posponer lo que realmente importa.",
+    "hashtags": "#estoicismo #MarcoAurelio #mementomori #vida #urgencia",
+    "category": "death"
+  },
+  {
+    "day": 12,
+    "quote": "Ningún hombre es más infeliz que aquel que nunca enfrenta la adversidad, porque no se le permite probarse a sí mismo.",
+    "author": "Séneca",
+    "reflection": "La zona de confort es una prisión con paredes acolchadas. Si todo te sale fácil, no estás creciendo. Abraza el desafío como tu maestro.",
+    "hashtags": "#estoicismo #Séneca #adversidad #zonadeconfort #prueba",
+    "category": "resilience"
+  },
+  {
+    "day": 13,
+    "quote": "No te indignes por las cosas; a ellas no les importa.",
+    "author": "Marco Aurelio",
+    "reflection": "Tu enojo no cambia la realidad, solo te envenena a ti. El tráfico no se mueve más rápido porque golpees el volante. Respira. Suelta. Sigue.",
+    "hashtags": "#estoicismo #MarcoAurelio #enojo #control #paz",
+    "category": "emotion"
+  },
+  {
+    "day": 14,
+    "quote": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo.",
+    "author": "Nietzsche",
+    "reflection": "Encuentra tu propósito y nada te detendrá. Un sentido claro te da energía incluso en los días más oscuros. Hoy escribe una razón por la que vale la pena levantarte mañana.",
+    "hashtags": "#estoicismo #Nietzsche #proposito #motivacion #sentido",
+    "category": "purpose"
+  },
+  {
+    "day": 15,
+    "quote": "Primero dite a ti mismo lo que quieres ser, y luego haz lo que tengas que hacer.",
+    "author": "Epicteto",
+    "reflection": "No basta con soñar. Define tu carácter deseado y actúa en consecuencia AHORA. Cada pequeña acción construye la persona que estás llegando a ser.",
+    "hashtags": "#estoicismo #Epicteto #disciplina #accion #caracter",
+    "category": "discipline"
+  },
+  {
+    "day": 16,
+    "quote": "Levántate cada mañana y recuerda lo precioso que es estar vivo: respirar, pensar, disfrutar, amar.",
+    "author": "Marco Aurelio",
+    "reflection": "No necesitas esperar a que todo sea perfecto para agradecer. El simple hecho de estar vivo es un milagro estadístico. Empieza tu día con gratitud, no con queja.",
+    "hashtags": "#estoicismo #MarcoAurelio #gratitud #mañana #vida",
+    "category": "gratitude"
+  },
+  {
+    "day": 17,
+    "quote": "No es que nos atrevamos porque las cosas son fáciles, es que las cosas se vuelven fáciles porque nos atrevemos.",
+    "author": "Séneca",
+    "reflection": "La acción precede a la confianza, no al revés. Lo que hoy te aterra será rutina en un mes. Empieza antes de sentirte listo.",
+    "hashtags": "#estoicismo #Séneca #valentia #accion #confianza",
+    "category": "action"
+  },
+  {
+    "day": 18,
+    "quote": "Si quieres ser grande, no pidas una vida fácil; pide la fuerza para soportar una difícil.",
+    "author": "Séneca",
+    "reflection": "Deja de pedir que los problemas desaparezcan. Mejor pide la fortaleza para atravesarlos. El carácter no se construye en la calma, sino en la tormenta.",
+    "hashtags": "#estoicismo #Séneca #fortaleza #dificil #caracter",
+    "category": "resilience"
+  },
+  {
+    "day": 19,
+    "quote": "Haz lo correcto. El resto no importa.",
+    "author": "Marco Aurelio",
+    "reflection": "En un mundo lleno de distracciones, la brújula estoica es simple: haz lo correcto. No por recompensa, no por reconocimiento. Simplemente porque es lo correcto.",
+    "hashtags": "#estoicismo #MarcoAurelio #integridad #correcto #valores",
+    "category": "virtue"
+  },
+  {
+    "day": 20,
+    "quote": "El que teme sufrir ya sufre por su temor.",
+    "author": "Séneca",
+    "reflection": "Mira cuánto sufrimiento te causas por anticipar dolores que nunca ocurren. El miedo al fracaso duele más que el fracaso mismo. Actúa hoy a pesar del miedo.",
+    "hashtags": "#estoicismo #Séneca #miedo #sufrimiento #anticipacion",
+    "category": "fear"
+  },
+  {
+    "day": 21,
+    "quote": "La primera regla es mantener el ánimo sereno. La segunda es mirar las cosas de frente y conocerlas por lo que son.",
+    "author": "Marco Aurelio",
+    "reflection": "No huyas de la realidad. Mírala con ojos claros, sin drama, sin negación. Solo viendo las cosas como son puedes decidir correctamente qué hacer con ellas.",
+    "hashtags": "#estoicismo #MarcoAurelio #serenidad #realidad #claridad",
+    "category": "mindset"
+  },
+  {
+    "day": 22,
+    "quote": "Cuando te levantes por la mañana, piensa en el privilegio de estar vivo.",
+    "author": "Marco Aurelio",
+    "reflection": "Hoy no es un día cualquiera. Es un regalo que a millones ya no les fue concedido. ¿Cómo vas a honrar ese privilegio con tus acciones?",
+    "hashtags": "#estoicismo #MarcoAurelio #gratitud #amanecer #privilegio",
+    "category": "gratitude"
+  },
+  {
+    "day": 23,
+    "quote": "Asóciate con personas que te hagan mejor.",
+    "author": "Séneca",
+    "reflection": "Eres el promedio de las 5 personas con las que más tratas. Si quieres crecer, elige tu círculo con intención. Aléjate de quienes drenan tu energía.",
+    "hashtags": "#estoicismo #Séneca #amistad #crecimiento #circulo",
+    "category": "relationships"
+  },
+  {
+    "day": 24,
+    "quote": "Los hombres nacen los unos para los otros. Por tanto, edúcales o sopórtales.",
+    "author": "Marco Aurelio",
+    "reflection": "La gente te va a decepcionar. Es su naturaleza. Puedes enfadarte o puedes aceptarlo y decidir si enseñas o simplemente toleras. La opción estoica: enseña con el ejemplo.",
+    "hashtags": "#estoicismo #MarcoAurelio #relaciones #paciencia #ejemplo",
+    "category": "relationships"
+  },
+  {
+    "day": 25,
+    "quote": "Nadie puede herirte sin tu consentimiento.",
+    "author": "Eleanor Roosevelt",
+    "reflection": "Las palabras de otros solo tienen el poder que tú les das. Cuando alguien te ofende, recuerda: la ofensa no está en sus palabras, está en tu interpretación.",
+    "hashtags": "#estoicismo #ofensa #poderpersonal #libertad",
+    "category": "relationships"
+  },
+  {
+    "day": 26,
+    "quote": "La mejor venganza es no ser como aquel que te hizo daño.",
+    "author": "Marco Aurelio",
+    "reflection": "Cuando alguien te traiciona, no caigas en su juego. La verdadera victoria no es devolver el golpe, sino mantener tu integridad intacta. Eso es poder real.",
+    "hashtags": "#estoicismo #MarcoAurelio #venganza #integritad #superacion",
+    "category": "relationships"
+  },
+  {
+    "day": 27,
+    "quote": "Cuánto más sudas en la paz, menos sangras en la guerra.",
+    "author": "Proverbio estoico",
+    "reflection": "La preparación es el antídoto contra el pánico. Prepárate para lo peor mientras trabajas por lo mejor. La disciplina diaria es tu escudo.",
+    "hashtags": "#estoicismo #disciplina #preparacion #paz #guerra",
+    "category": "discipline"
+  },
+  {
+    "day": 28,
+    "quote": "No malgastes el tiempo discutiendo cómo debería ser un buen hombre. Sé uno.",
+    "author": "Marco Aurelio",
+    "reflection": "Deja de leer sobre superación y no hacer nada. Deja de planear. La filosofía estoica no se estudia, se practica. Hoy actúa como la persona que quieres ser.",
+    "hashtags": "#estoicismo #MarcoAurelio #accion #practica #sebueno",
+    "category": "action"
+  },
+  {
+    "day": 29,
+    "quote": "La riqueza no consiste en tener muchas posesiones, sino en tener pocas necesidades.",
+    "author": "Epicteto",
+    "reflection": "Cada nuevo deseo es una nueva cadena. La libertad no es tener más, es necesitar menos. Pregúntate: ¿cuánto de lo que compras es para impresionar a gente que ni te importa?",
+    "hashtags": "#estoicismo #Epicteto #riqueza #minimalismo #libertad",
+    "category": "wealth"
+  },
+  {
+    "day": 30,
+    "quote": "Es signo de gran pobreza tener siempre necesidad de adquirir.",
+    "author": "Séneca",
+    "reflection": "Si necesitas más para ser feliz, nunca serás feliz. La ambición sin límites es una adicción. Define qué es 'suficiente' para ti y detente ahí.",
+    "hashtags": "#estoicismo #Séneca #pobreza #ambicion #suficiente",
+    "category": "wealth"
+  },
+  {
+    "day": 31,
+    "quote": "No es pobre el que tiene poco, sino el que desea mucho.",
+    "author": "Séneca",
+    "reflection": "La verdadera pobreza está en la mente, no en la cartera. Conozco millonarios miserables y personas humildes que rebosan alegría. La gratitud es la moneda de la abundancia.",
+    "hashtags": "#estoicismo #Séneca #pobreza #deseo #gratitud",
+    "category": "wealth"
+  },
+  {
+    "day": 32,
+    "quote": "Acepta lo que viene tejido en el patrón de tu destino.",
+    "author": "Marco Aurelio",
+    "reflection": "Forzar las cosas consume energía que podrías usar en avanzar. A veces rendirse no es fracasar; es dejar de empujar una puerta que abre hacia el otro lado.",
+    "hashtags": "#estoicismo #MarcoAurelio #destino #aceptacion #fluir",
+    "category": "acceptance"
+  },
+  {
+    "day": 33,
+    "quote": "No te preocupes por ser reconocido; preocúpate por ser digno de reconocimiento.",
+    "author": "Epicteto",
+    "reflection": "En la era de los likes, buscamos validación externa como adictos. Pero la fama sin carácter es un castillo de arena. Construye excelencia.",
+    "hashtags": "#estoicismo #Epicteto #reconocimiento #validacion #excelencia",
+    "category": "fame"
+  },
+  {
+    "day": 34,
+    "quote": "Cuánto tiempo gana quien no se fija en lo que dice, hace o piensa su vecino.",
+    "author": "Marco Aurelio",
+    "reflection": "Deja de compararte. Las redes sociales son un carrete de highlights. La única persona con la que debes competir es con quien fuiste ayer.",
+    "hashtags": "#estoicismo #MarcoAurelio #comparacion #redessociales #progreso",
+    "category": "comparison"
+  },
+  {
+    "day": 35,
+    "quote": "Dificultades, enfermedades, pérdidas... son ejercicios para el alma.",
+    "author": "Séneca",
+    "reflection": "El gimnasio del carácter cobra cuotas en forma de problemas. Cada crisis que superas te hace más fuerte para la siguiente. No maldigas la dificultad; agradécela.",
+    "hashtags": "#estoicismo #Séneca #dificultades #alma #fortaleza",
+    "category": "resilience"
+  },
+  {
+    "day": 36,
+    "quote": "Podrías dejar la vida ahora mismo. Deja que eso determine lo que haces, dices y piensas.",
+    "author": "Marco Aurelio",
+    "reflection": "No es morboso recordar la muerte; es la mejor herramienta de productividad. Si hoy fuera tu último día, ¿seguirías haciendo lo mismo? Si no, cambia algo HOY.",
+    "hashtags": "#estoicismo #MarcoAurelio #mementomori #muerte #urgencia",
+    "category": "death"
+  },
+  {
+    "day": 37,
+    "quote": "Aprende a vivir, y sabrás morir bien.",
+    "author": "Séneca",
+    "reflection": "Nadie te enseña a morir, pero es la única certeza que tienes. Vivir bien es prepararte para ese momento sin arrepentimientos. ¿Qué necesitas resolver para irte en paz?",
+    "hashtags": "#estoicismo #Séneca #muerte #vida #preparacion",
+    "category": "death"
+  },
+  {
+    "day": 38,
+    "quote": "Todo lo que existe pronto cambiará. O se evaporará, si la sustancia es una, o se dispersará.",
+    "author": "Marco Aurelio",
+    "reflection": "Nada es permanente: ni el dolor, ni la alegría, ni tus problemas, ni tú mismo. Esta comprensión no es triste; es liberadora. Disfruta cada momento como único.",
+    "hashtags": "#estoicismo #MarcoAurelio #impermanencia #cambio #presente",
+    "category": "impermanence"
+  },
+  {
+    "day": 39,
+    "quote": "Piensa en la vasta extensión del tiempo detrás y delante de ti. ¿Qué diferencia hay entre vivir 3 días o 3 generaciones?",
+    "author": "Marco Aurelio",
+    "reflection": "En la escala cósmica, tu vida es un parpadeo. Esto no te hace insignificante; te hace libre. Libre para arriesgarte, para amar, para intentar.",
+    "hashtags": "#estoicismo #MarcoAurelio #cosmos #perspectiva #tiempo",
+    "category": "perspective"
+  },
+  {
+    "day": 40,
+    "quote": "No vivas como si fueras a vivir mil años. El destino está sobre ti. Mientras vivas, mientras puedas, sé bueno.",
+    "author": "Marco Aurelio",
+    "reflection": "La procrastinación es una apuesta contra tu mortalidad. 'Mañana' no está garantizado. Lo que tienes que hacer, hazlo ahora. Lo que tienes que decir, dilo hoy.",
+    "hashtags": "#estoicismo #MarcoAurelio #mortalidad #accion #bondad",
+    "category": "death"
+  },
+  {
+    "day": 41,
+    "quote": "La vida es como una obra de teatro: no importa cuánto dura, sino qué tan bien se representa.",
+    "author": "Séneca",
+    "reflection": "Deja de obsesionarte con la duración. Enfócate en la calidad de cada escena. Una vida corta y significativa vale más que una larga y vacía.",
+    "hashtags": "#estoicismo #Séneca #calidaddevida #sentido #obra",
+    "category": "life"
+  },
+  {
+    "day": 42,
+    "quote": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontrarás la fuerza.",
+    "author": "Marco Aurelio",
+    "reflection": "El poder real no es controlar el mundo, sino controlar tu respuesta a él. Entre el estímulo y la respuesta hay un espacio. En ese espacio está tu libertad.",
+    "hashtags": "#estoicismo #MarcoAurelio #mentepoderosa #libertad #respuesta",
+    "category": "control"
+  },
+  {
+    "day": 43,
+    "quote": "Si alguien puede refutarme y mostrarme que estoy equivocado, cambiaré con gusto. Busco la verdad, no tener razón.",
+    "author": "Marco Aurelio",
+    "reflection": "Estar equivocado no es una derrota; es una actualización. Las personas más sabias cambian de opinión cuando los hechos cambian. La terquedad no es fortaleza.",
+    "hashtags": "#estoicismo #MarcoAurelio #humildad #verdad #aprendizaje",
+    "category": "wisdom"
+  },
+  {
+    "day": 44,
+    "quote": "Solo el hombre educado es libre.",
+    "author": "Epicteto",
+    "reflection": "La ignorancia es la verdadera esclavitud. Cada libro que lees, cada habilidad que aprendes, rompe una cadena. Invierte en tu educación; nadie puede quitártela.",
+    "hashtags": "#estoicismo #Epicteto #educacion #libertad #aprendizaje",
+    "category": "wisdom"
+  },
+  {
+    "day": 45,
+    "quote": "Primero aprende el significado de lo que dices, y luego habla.",
+    "author": "Epicteto",
+    "reflection": "Hablar por hablar es ruido. Escuchar más de lo que hablas es una ventaja estratégica. Hoy, en cada conversación, escucha el doble de lo que hablas.",
+    "hashtags": "#estoicismo #Epicteto #escuchar #sabiduria #comunicacion",
+    "category": "wisdom"
+  },
+  {
+    "day": 46,
+    "quote": "No pretendas ser filósofo. Sé filósofo. No hables de cómo debe vivir un hombre; muéstralo con tu vida.",
+    "author": "Epicteto",
+    "reflection": "Los estoicos no daban conferencias; vivían su filosofía. Que tus acciones sean tu argumento. Es fácil citar frases; lo difícil es vivirlas cuando nadie mira.",
+    "hashtags": "#estoicismo #Epicteto #coherencia #ejemplo #accion",
+    "category": "wisdom"
+  },
+  {
+    "day": 47,
+    "quote": "La naturaleza nos ha dado dos oídos y una sola boca para recordarnos que debemos escuchar más de lo que hablamos.",
+    "author": "Zenón de Citio",
+    "reflection": "Hablar menos te da dos ventajas: aprendes más y revelas menos. En la negociación, en el amor, en los negocios: quien escucha domina.",
+    "hashtags": "#estoicismo #Zenon #escucha #sabiduria #comunicacion",
+    "category": "wisdom"
+  },
+  {
+    "day": 48,
+    "quote": "No digas 'esto me pasó para mal'. Di 'esto me pasó, y lo afrontaré con virtud'.",
+    "author": "Marco Aurelio",
+    "reflection": "El sufrimiento no está en el evento, está en la etiqueta que le pones. Hoy, a cualquier cosa negativa que ocurra, no la llames 'mala'. Llámala 'un desafío para mi carácter'.",
+    "hashtags": "#estoicismo #MarcoAurelio #perspectiva #virtud #actitud",
+    "category": "perspective"
+  },
+  {
+    "day": 49,
+    "quote": "Elige no ser perjudicado y no lo serás.",
+    "author": "Marco Aurelio",
+    "reflection": "Nadie puede hacerte daño sin tu permiso mental. Pueden golpear tu cuerpo, quitarte posesiones, pero no pueden tocar tu carácter a menos que tú lo permitas.",
+    "hashtags": "#estoicismo #MarcoAurelio #invulnerabilidad #caracter #eleccion",
+    "category": "resilience"
+  },
+  {
+    "day": 50,
+    "quote": "Al amanecer, cuando te cueste levantarte, recuérdate: 'Me levanto para hacer el trabajo de un ser humano'.",
+    "author": "Marco Aurelio",
+    "reflection": "Cada mañana es una batalla entre tu yo presente (cómodo) y tu yo futuro (exitoso). Levántate y haz tu trabajo. No para ti, sino para la humanidad que te necesita.",
+    "hashtags": "#estoicismo #MarcoAurelio #manana #disciplina #proposito",
+    "category": "morning"
+  },
+  {
+    "day": 51,
+    "quote": "Prepárate para el día esperando las dificultades. Así no te sorprenderán.",
+    "author": "Marco Aurelio",
+    "reflection": "Cada mañana, dedica 2 minutos a visualizar qué podría salir mal. Gente grosera, tráfico, fallos. Cuando ocurran, pensarás 'ya lo esperaba' y no perderás la calma.",
+    "hashtags": "#estoicismo #MarcoAurelio #premeditacion #dificultades #calma",
+    "category": "morning"
+  },
+  {
+    "day": 52,
+    "quote": "El sol no espera a que le supliquen para salir. Haz como el sol: brilla sin que te lo pidan.",
+    "author": "Marco Aurelio",
+    "reflection": "No esperes motivación externa. No esperes a estar listo. El sol no necesita que le digan 'por favor sal hoy'. Haz tu trabajo con la misma inevitabilidad.",
+    "hashtags": "#estoicismo #MarcoAurelio #disciplina #motivacion #accion",
+    "category": "discipline"
+  },
+  {
+    "day": 53,
+    "quote": "Cada noche, antes de dormir, repasa tus acciones: ¿Qué hice bien? ¿Qué hice mal? ¿Qué omití?",
+    "author": "Epicteto",
+    "reflection": "El examen de conciencia nocturno es el gimnasio del carácter. Sin reflexión no hay mejora. 5 minutos cada noche revisando tus acciones valen más que horas de lectura.",
+    "hashtags": "#estoicismo #Epicteto #reflexion #noche #mejora",
+    "category": "evening"
+  },
+  {
+    "day": 54,
+    "quote": "La mente se tiñe del color de sus pensamientos.",
+    "author": "Marco Aurelio",
+    "reflection": "Tus pensamientos son el pincel que pinta tu realidad. Si todo lo ves gris, revisa tus pensamientos, no el mundo. Cambia tu diálogo interno y cambiará tu percepción.",
+    "hashtags": "#estoicismo #MarcoAurelio #mente #pensamientos #percepcion",
+    "category": "mindset"
+  },
+  {
+    "day": 55,
+    "quote": "No dejes que tu mente divague. Gobierna tus pensamientos.",
+    "author": "Marco Aurelio",
+    "reflection": "Una mente sin dirección es como un barco sin timón: el oleaje de emociones la lleva donde quiere. Toma el control. Cuando tu mente se disperse, tráela de vuelta.",
+    "hashtags": "#estoicismo #MarcoAurelio #concentracion #control #mente",
+    "category": "mindset"
+  },
+  {
+    "day": 56,
+    "quote": "La perfección del carácter es vivir cada día como si fuera el último, sin frenesí, sin pereza, sin hipocresía.",
+    "author": "Marco Aurelio",
+    "reflection": "Vivir como si fuera el último día no significa hacer locuras. Significa dar lo mejor de ti, sin excusas, sin máscaras, sin posponer lo importante.",
+    "hashtags": "#estoicismo #MarcoAurelio #perfeccion #caracter #ultimodia",
+    "category": "character"
+  },
+  {
+    "day": 57,
+    "quote": "Deja de pensar en lo que un hombre bueno debería ser, y simplemente sé uno.",
+    "author": "Marco Aurelio",
+    "reflection": "La brecha entre quien eres y quien quieres ser se cierra con acciones, no con pensamientos. Hoy haz UNA cosa que la versión ideal de ti haría.",
+    "hashtags": "#estoicismo #MarcoAurelio #accion #bondad #coherencia",
+    "category": "action"
+  },
+  {
+    "day": 58,
+    "quote": "Qué frágil es la fama. Perseguir el aplauso es perseguir el viento.",
+    "author": "Marco Aurelio",
+    "reflection": "La fama es un subidón de dopamina barato. Los likes no pagan cuentas ni te dan paz. Construye algo que valga la pena, no solo algo que reciba aplausos.",
+    "hashtags": "#estoicismo #MarcoAurelio #fama #ego #aplauso",
+    "category": "fame"
+  },
+  {
+    "day": 59,
+    "quote": "¿Prefieres ser admirado o ser útil?",
+    "author": "Epicteto",
+    "reflection": "Buscar admiración es una trampa del ego. Buscar utilidad es un camino de servicio. Cuando mueras, nadie recordará cuántos likes tenías. Recordarán a quién ayudaste.",
+    "hashtags": "#estoicismo #Epicteto #utilidad #ego #servicio",
+    "category": "fame"
+  },
+  {
+    "day": 60,
+    "quote": "El que se enfada por las críticas es porque les da valor. El sabio las examina y, si son justas, las agradece.",
+    "author": "Séneca",
+    "reflection": "La crítica es un espejo. Puedes romperlo o mirarte en él. Si alguien señala un defecto real, te está haciendo un favor. Agradécelo y mejora.",
+    "hashtags": "#estoicismo #Séneca #critica #sabiduria #mejora",
+    "category": "ego"
+  },
+  {
+    "day": 61,
+    "quote": "Alejandro Magno y su mozo de cuadra se igualaron en la muerte.",
+    "author": "Marco Aurelio",
+    "reflection": "Al final, el polvo del emperador y del esclavo son indistinguibles. Lo único que importa es cómo vives, no qué acumulas.",
+    "hashtags": "#estoicismo #MarcoAurelio #igualdad #muerte #humildad",
+    "category": "death"
+  },
+  {
+    "day": 62,
+    "quote": "Poco importa la opinión de la mayoría. La mayoría rara vez tiene razón.",
+    "author": "Séneca",
+    "reflection": "Si haces lo que todos hacen, obtendrás lo que todos obtienen. Las grandes recompensas están donde la mayoría no se atreve a ir. Confía en tu criterio.",
+    "hashtags": "#estoicismo #Séneca #mayoria #independencia #criterio",
+    "category": "independence"
+  },
+  {
+    "day": 63,
+    "quote": "El arte de vivir es más parecido a la lucha que al baile.",
+    "author": "Marco Aurelio",
+    "reflection": "La vida no es un vals elegante; es un combate donde debes mantener el equilibrio mientras te golpean. No esperes que sea fácil. Espera estar a la altura.",
+    "hashtags": "#estoicismo #MarcoAurelio #vida #lucha #resiliencia",
+    "category": "resilience"
+  },
+  {
+    "day": 64,
+    "quote": "Deja de discutir sobre cómo debe ser un buen hombre. Sé uno.",
+    "author": "Marco Aurelio",
+    "reflection": "Ya sabes lo suficiente. No necesitas otro libro, otro curso. Lo que necesitas es actuar con lo que ya sabes. La acción es el puente entre el conocimiento y los resultados.",
+    "hashtags": "#estoicismo #MarcoAurelio #accion #resultados #coherencia",
+    "category": "action"
+  },
+  {
+    "day": 65,
+    "quote": "Es mejor tropezar con los pies que con la lengua.",
+    "author": "Zenón de Citio",
+    "reflection": "Muchos problemas vienen de hablar de más. Antes de decir algo, pregúntate: ¿es verdad? ¿es necesario? ¿es amable? Si no pasa las tres, guárdalo.",
+    "hashtags": "#estoicismo #Zenon #silencio #prudencia #sabiduria",
+    "category": "wisdom"
+  },
+  {
+    "day": 66,
+    "quote": "¿Hasta cuándo vas a esperar para exigirte lo mejor?",
+    "author": "Epicteto",
+    "reflection": "'El lunes empiezo'. 'Cuando tenga tiempo'. 'El próximo mes'. Las excusas son tu principal enemigo. La disciplina no es un cambio de vida; es la decisión de este momento.",
+    "hashtags": "#estoicismo #Epicteto #disciplina #excusa #ahora",
+    "category": "discipline"
+  },
+  {
+    "day": 67,
+    "quote": "No te comportes como si fueras a vivir diez mil años. Lo inevitable pende sobre ti.",
+    "author": "Marco Aurelio",
+    "reflection": "Cada día que pospones es un día que no recuperarás. La urgencia estoica no es ansiedad, es claridad. ¿Qué harías diferente si supieras que te queda un año de vida?",
+    "hashtags": "#estoicismo #MarcoAurelio #urgencia #mortalidad #accion",
+    "category": "death"
+  },
+  {
+    "day": 68,
+    "quote": "Nada necesita tan poco aparato como la virtud.",
+    "author": "Séneca",
+    "reflection": "Ser buena persona no requiere dinero, estatus ni circunstancias perfectas. Puedes ser virtuoso en la pobreza, en la enfermedad, en la soledad. La virtud es el lujo de los libres.",
+    "hashtags": "#estoicismo #Séneca #virtud #simpleza #libertad",
+    "category": "virtue"
+  },
+  {
+    "day": 69,
+    "quote": "No te unas al coro de los quejumbrosos. Sé la excepción.",
+    "author": "Marco Aurelio",
+    "reflection": "Quejarse es contagioso y adictivo. No resuelve nada. Hoy, cada vez que quieras quejarte, transforma la queja en una acción correctiva.",
+    "hashtags": "#estoicismo #MarcoAurelio #queja #actitud #positividad",
+    "category": "attitude"
+  },
+  {
+    "day": 70,
+    "quote": "La suerte es lo que sucede cuando la preparación se encuentra con la oportunidad.",
+    "author": "Séneca",
+    "reflection": "No esperes 'tener suerte'. La suerte no es un rayo aleatorio. Es lo que pasa cuando trabajas duro en silencio y luego alguien abre una puerta.",
+    "hashtags": "#estoicismo #Séneca #suerte #preparacion #oportunidad",
+    "category": "discipline"
+  },
+  {
+    "day": 71,
+    "quote": "La ira es un ácido que hace más daño al recipiente que lo contiene que a aquello sobre lo que se vierte.",
+    "author": "Séneca",
+    "reflection": "Cuando explotas de ira, el único que sufre las consecuencias eres tú. La próxima vez que sientas rabia, espera 60 segundos antes de actuar.",
+    "hashtags": "#estoicismo #Séneca #ira #control #emociones",
+    "category": "emotion"
+  },
+  {
+    "day": 72,
+    "quote": "No hay nada bueno ni malo; es el pensamiento lo que lo hace tal.",
+    "author": "Shakespeare",
+    "reflection": "Dos personas viven el mismo evento: una lo ve como tragedia, la otra como oportunidad. La diferencia no está en el hecho, sino en sus mentes. Tú eliges el lente.",
+    "hashtags": "#estoicismo #Epicteto #perspectiva #mente #eleccion",
+    "category": "perspective"
+  },
+  {
+    "day": 73,
+    "quote": "Los estoicos no reprimen sus emociones; las transforman en comprensión.",
+    "author": "Enseñanza estoica",
+    "reflection": "Sentir miedo, tristeza o ira no te hace 'mal estoico'. Lo que importa es lo que haces con esas emociones. Obsérvalas, compréndelas, y elige no dejar que te controlen.",
+    "hashtags": "#estoicismo #emociones #comprension #autocontrol #inteligenciaemocional",
+    "category": "emotion"
+  },
+  {
+    "day": 74,
+    "quote": "Rechaza las impresiones dañinas. No dejes que entren en tu mente.",
+    "author": "Marco Aurelio",
+    "reflection": "Eres el portero de tu mente. No tienes que abrirle la puerta a cada pensamiento tóxico, a cada noticia alarmante, a cada comentario hiriente. Di 'no, gracias' y cierra.",
+    "hashtags": "#estoicismo #MarcoAurelio #menteprotegida #filtro #paz",
+    "category": "mindset"
+  },
+  {
+    "day": 75,
+    "quote": "Mantén la calma en la adversidad. Quien conserva la serenidad, domina la situación.",
+    "author": "Séneca",
+    "reflection": "El que pierde la calma pierde la partida. En el caos, el que respira profundo y piensa claro es el verdadero líder. Practica la pausa de 5 segundos antes de reaccionar.",
+    "hashtags": "#estoicismo #Séneca #calma #liderazgo #serenidad",
+    "category": "emotion"
+  },
+  {
+    "day": 76,
+    "quote": "No busques que lo que sucede suceda como quieres; quiere lo que sucede tal como sucede.",
+    "author": "Epicteto",
+    "reflection": "Esta es la enseñanza más difícil: Amor Fati. Amar el destino. No solo aceptarlo, sino amarlo. Porque todo, absolutamente todo, es material para tu crecimiento.",
+    "hashtags": "#estoicismo #Epicteto #amorfati #destino #aceptacion",
+    "category": "acceptance"
+  },
+  {
+    "day": 77,
+    "quote": "Enfrenta las cosas con serenidad, aunque te parezcan terribles. Examínalas y verás que no lo son tanto.",
+    "author": "Séneca",
+    "reflection": "El miedo magnifica. Lo que de lejos parece un monstruo, de cerca es solo una sombra. Hoy, toma algo que te preocupe y examínalo racionalmente.",
+    "hashtags": "#estoicismo #Séneca #miedo #racionalidad #serenidad",
+    "category": "fear"
+  },
+  {
+    "day": 78,
+    "quote": "Un hombre que es bueno para todos, que se gobierna a sí mismo: ese es un hombre libre.",
+    "author": "Epicteto",
+    "reflection": "La libertad no es hacer lo que quieres. Es tener el autocontrol para hacer lo correcto. El que se gobierna a sí mismo no necesita gobernar a otros.",
+    "hashtags": "#estoicismo #Epicteto #libertad #autocontrol #gobierno",
+    "category": "freedom"
+  },
+  {
+    "day": 79,
+    "quote": "No te contentes con ser mediocre. Aspira a la excelencia en todo lo que hagas.",
+    "author": "Enseñanza estoica",
+    "reflection": "La mediocridad es una elección, no un destino. Puedes hacer las cosas 'más o menos' o puedes poner tu sello de excelencia en cada tarea, por pequeña que sea.",
+    "hashtags": "#estoicismo #excelencia #mediocridad #estandares #grandeza",
+    "category": "excellence"
+  },
+  {
+    "day": 80,
+    "quote": "Que tu felicidad no dependa de algo que pueda serte arrebatado.",
+    "author": "Epicteto",
+    "reflection": "Si tu felicidad depende de tu pareja, tu dinero o tu salud, eres vulnerable. Construye tu bienestar sobre lo único que nadie puede quitarte: tu carácter.",
+    "hashtags": "#estoicismo #Epicteto #felicidad #independencia #caracter",
+    "category": "happiness"
+  },
+  {
+    "day": 81,
+    "quote": "Lo que hacemos en la vida tiene su eco en la eternidad.",
+    "author": "Marco Aurelio",
+    "reflection": "Tus acciones trascienden tu existencia. Cómo tratas a las personas, el trabajo que dejas, las ideas que compartes... todo tiene un eco que seguirá sonando cuando ya no estés.",
+    "hashtags": "#estoicismo #MarcoAurelio #legado #eternidad #acciones",
+    "category": "legacy"
+  },
+  {
+    "day": 82,
+    "quote": "El secreto de la felicidad no es hacer lo que te gusta, sino que te guste lo que haces.",
+    "author": "Epicteto",
+    "reflection": "No esperes encontrar el trabajo perfecto. Aprende a encontrar significado en lo que haces ahora. La pasión no se descubre; se cultiva con maestría y dedicación.",
+    "hashtags": "#estoicismo #Epicteto #trabajo #pasion #felicidad",
+    "category": "work"
+  },
+  {
+    "day": 83,
+    "quote": "Observa a los que te rodean: sus defectos son tus maestros.",
+    "author": "Marco Aurelio",
+    "reflection": "Cuando veas a alguien comportarse mal, no lo juzgues. Obsérvalo como un espejo: '¿Hago yo algo similar?' Usa los errores ajenos como clases gratuitas de mejora personal.",
+    "hashtags": "#estoicismo #MarcoAurelio #maestros #observacion #mejora",
+    "category": "wisdom"
+  },
+  {
+    "day": 84,
+    "quote": "Si está soportable, sopórtalo. Deja de quejarte.",
+    "author": "Marco Aurelio",
+    "reflection": "La mayoría de las cosas que te molestan son soportables. Te has convencido de que no puedes, pero tu capacidad de resistencia es mucho mayor de lo que crees.",
+    "hashtags": "#estoicismo #MarcoAurelio #resistencia #queja #fortaleza",
+    "category": "resilience"
+  },
+  {
+    "day": 85,
+    "quote": "Muy poco se necesita para una vida feliz. Todo está dentro de ti, en tu forma de pensar.",
+    "author": "Marco Aurelio",
+    "reflection": "Deja de buscar la felicidad fuera: en compras, viajes, relaciones. La felicidad verdadera es una decisión interna, no una adquisición externa. Elige ser feliz con lo que tienes.",
+    "hashtags": "#estoicismo #MarcoAurelio #felicidad #interior #simplicidad",
+    "category": "happiness"
+  },
+  {
+    "day": 86,
+    "quote": "Convierte cada obstáculo en combustible.",
+    "author": "Ryan Holiday",
+    "reflection": "No esquives los problemas; úsalos como gasolina para tu motor. Cada 'no' que recibes, cada puerta cerrada, es una oportunidad para demostrar de qué estás hecho.",
+    "hashtags": "#estoicismo #RyanHoliday #obstaculo #combustible #resiliencia",
+    "category": "resilience"
+  },
+  {
+    "day": 87,
+    "quote": "El hombre valiente no es el que no siente miedo, sino aquel que lo conquista.",
+    "author": "Nelson Mandela",
+    "reflection": "Sentir miedo es humano. Dejarse paralizar por él es una elección. El coraje no es ausencia de miedo; es actuar a pesar del miedo. Hoy, haz algo que te dé miedo.",
+    "hashtags": "#estoicismo #Mandela #valentia #miedo #coraje",
+    "category": "courage"
+  },
+  {
+    "day": 88,
+    "quote": "La disciplina es el puente entre las metas y los logros.",
+    "author": "Jim Rohn",
+    "reflection": "Soñar es gratis. Lograr requiere pagar el precio diario de la disciplina. No hay atajos. Cada día que haces lo que debes hacer, colocas un ladrillo de tu catedral.",
+    "hashtags": "#estoicismo #disciplina #metas #logros #constancia",
+    "category": "discipline"
+  },
+  {
+    "day": 89,
+    "quote": "No juzgues nada como útil o perjudicial hasta que no hayas examinado tu propia capacidad de respuesta.",
+    "author": "Epicteto",
+    "reflection": "Lo que parece una desgracia puede ser una bendición, y viceversa. El tiempo revela el verdadero valor de las cosas. Mantén tu juicio en suspenso y tu mente abierta.",
+    "hashtags": "#estoicismo #Epicteto #juicio #menteabierta #perspectiva",
+    "category": "wisdom"
+  },
+  {
+    "day": 90,
+    "quote": "No olvides que todo lo que sucede es parte de un plan más grande.",
+    "author": "Marco Aurelio",
+    "reflection": "Confía en el proceso. Lo que hoy no entiendes, mañana tendrá sentido. El universo no conspira contra ti; conspira PARA ti, aunque aún no puedas ver cómo.",
+    "hashtags": "#estoicismo #MarcoAurelio #confianza #universo #plan",
+    "category": "trust"
+  },
+  {
+    "day": 91,
+    "quote": "Sigue a la naturaleza. No luches contra la corriente.",
+    "author": "Marco Aurelio",
+    "reflection": "Forzar lo que no es natural agota. Aprende a distinguir entre persistencia (virtud) y terquedad (vicio). A veces, la mejor acción es soltar y fluir.",
+    "hashtags": "#estoicismo #MarcoAurelio #naturaleza #fluir #soltar",
+    "category": "acceptance"
+  },
+  {
+    "day": 92,
+    "quote": "Cada día es una pequeña vida. Vívelo plenamente.",
+    "author": "Séneca",
+    "reflection": "No vivas proyectado en el futuro. Cada amanecer es una vida en miniatura. ¿Cómo vas a vivir hoy para que, al acostarte, puedas decir 'fue un buen día'?",
+    "hashtags": "#estoicismo #Séneca #presente #plenitud #hoy",
+    "category": "presence"
+  },
+  {
+    "day": 93,
+    "quote": "La verdadera riqueza es tener tiempo. El verdadero lujo es elegir en qué usarlo.",
+    "author": "Séneca",
+    "reflection": "El dinero va y viene. El tiempo solo va. Invertir en libertad de tiempo es la mejor inversión que puedes hacer. Cada minuto que recuperas es un minuto de vida ganado.",
+    "hashtags": "#estoicismo #Séneca #tiempo #libertad #riqueza",
+    "category": "time"
+  },
+  {
+    "day": 94,
+    "quote": "Camina erguido, libre. Mira al mundo con gratitud, no con queja.",
+    "author": "Marco Aurelio",
+    "reflection": "Tu postura física afecta tu estado mental. Camina con dignidad. Mira hacia adelante. Agradece tres cosas cada mañana y verás cómo cambia tu perspectiva.",
+    "hashtags": "#estoicismo #MarcoAurelio #gratitud #postura #dignidad",
+    "category": "gratitude"
+  },
+  {
+    "day": 95,
+    "quote": "Lo que niegas te somete. Lo que aceptas te transforma.",
+    "author": "Carl Jung",
+    "reflection": "Aquello a lo que te resistes, persiste. Aceptar no es resignarse; es dejar de gastar energía en negar la realidad para empezar a cambiarla desde la verdad.",
+    "hashtags": "#estoicismo #aceptacion #transformacion #Jung #sombra",
+    "category": "acceptance"
+  },
+  {
+    "day": 96,
+    "quote": "No midas tu vida por los aplausos, sino por los obstáculos que has vencido.",
+    "author": "Enseñanza estoica",
+    "reflection": "Los likes no miden tu valor. Las cicatrices de batalla sí. Cada dificultad superada es una medalla invisible. Esas son las que realmente importan.",
+    "hashtags": "#estoicismo #obstaculos #valor #cicatrices #superacion",
+    "category": "resilience"
+  },
+  {
+    "day": 97,
+    "quote": "El que no se contenta con poco, no se contentará con nada.",
+    "author": "Epicteto",
+    "reflection": "Si no eres feliz con lo que tienes hoy, no lo serás cuando tengas el doble. La gratitud es el multiplicador de la felicidad. Agradece antes de pedir más.",
+    "hashtags": "#estoicismo #Epicteto #contento #gratitud #suficiente",
+    "category": "gratitude"
+  },
+  {
+    "day": 98,
+    "quote": "Sé tolerante con los demás y estricto contigo mismo.",
+    "author": "Marco Aurelio",
+    "reflection": "Con los otros, compasión. Contigo mismo, exigencia. No al revés. El mundo mejoraría si cada persona se enfocara en corregir sus propios defectos en vez de los ajenos.",
+    "hashtags": "#estoicismo #MarcoAurelio #tolerancia #exigencia #automejora",
+    "category": "character"
+  },
+  {
+    "day": 99,
+    "quote": "El estoicismo no promete una vida sin problemas. Promete que serás más grande que tus problemas.",
+    "author": "Enseñanza estoica moderna",
+    "reflection": "Nadie te dijo que sería fácil. Te dijeron que serías capaz. Los problemas no van a desaparecer, pero tú puedes crecer hasta que te parezcan pequeños.",
+    "hashtags": "#estoicismo #problemas #crecimiento #capacidad #fortaleza",
+    "category": "resilience"
+  },
+  {
+    "day": 100,
+    "quote": "Has vivido 100 días de estoicismo. Ahora vive el resto de tu vida como un estoico. No es una fase, es una forma de vida.",
+    "author": "El camino estoico",
+    "reflection": "Esto no termina aquí. 100 días fueron el calentamiento. Ahora toma todo lo aprendido y conviértelo en tu forma predeterminada de vivir. Sé el faro que otros necesitan.",
+    "hashtags": "#estoicismo #100dias #formadevida #legado #comienzo",
+    "category": "milestone"
+  }
+]
