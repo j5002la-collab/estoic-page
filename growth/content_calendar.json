@@ -1,0 +1,20 @@
+{
+  "calendario": [
+    {"semana":1,"reel":"Control vs Preocupación — 15s con frase de Epicteto","encuesta":"¿Qué te quita más la paz? A) Lo que pasa B) Cómo lo interpretas","live":"Café Estoico #1: La dicotomía del control"},
+    {"semana":2,"reel":"Memento Mori — recordar que vamos a morir para vivir mejor","encuesta":"¿Cuántas horas perdiste esta semana en redes? A) <5 B) 5-15 C) >15","live":"Café Estoico #2: Por qué recordar la muerte te hace feliz"},
+    {"semana":3,"reel":"Amor Fati — amar tu destino en 20s","encuesta":"¿Aceptas lo que no puedes cambiar o luchas contra ello?","live":"Café Estoico #3: Séneca y la brevedad de la vida"},
+    {"semana":4,"reel":"Disciplina estoica — la constancia vence al talento","encuesta":"¿Cuál es tu mayor obstáculo estoico? A) Disciplina B) Enojo C) Miedo D) Pereza","live":"Café Estoico #4: Cómo crear hábitos estoicos"},
+    {"semana":5,"reel":"Marco Aurelio en 30s — el emperador filósofo","encuesta":"¿Prefieres leer o escuchar frases estoicas?","live":"Café Estoico #5: Meditaciones de Marco Aurelio explicadas"},
+    {"semana":6,"reel":"El obstáculo es el camino — transformar problemas","encuesta":"Tu mayor aprendizaje vino de: A) Éxito B) Fracaso","live":"Café Estoico #6: Cómo usar la adversidad a tu favor"},
+    {"semana":7,"reel":"5 hábitos estoicos matutinos en 20s","encuesta":"¿Tienes rutina matutina? A) Sí B) No C) Quiero empezar","live":"Café Estoico #7: Rutina matutina estoica"},
+    {"semana":8,"reel":"Séneca sobre el tiempo — no es poco, lo desperdiciamos","encuesta":"¿Cuál es tu mayor ladrón de tiempo?","live":"Café Estoico #8: Productividad estoica"}
+  ],
+  "tips_crecimiento": [
+    "Publica en 3-5 grupos de FB cada vez que publiques en tu página",
+    "Responde TODOS los comentarios en la primera hora (algoritmo premia)",
+    "Usa historias diarias con encuestas (Facebook aumenta tu alcance)",
+    "Colabora con 1 página similar por semana (menciones cruzadas)",
+    "Los lives de 15 min los viernes a las 7 PM tienen mejor alcance",
+    "Usa los snippets de growth/snippets_grupos.txt para copiar/pegar en grupos"
+  ]
+}
