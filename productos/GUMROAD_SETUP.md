@@ -1,6 +1,9 @@
 # GUMROAD — Producto: 30 Días de Estoicismo
 # ========================================
-# Copia y pega esto en Gumroad al crear el producto.
+# ✅ PUBLICADO
+
+# ─── LINK ───
+LINK = "https://8748494706208.gumroad.com/l/jsruun"
 
 # ─── TÍTULO ───
 TITLE = "30 Días de Estoicismo: Domina tu Mente"
@@ -71,6 +74,6 @@ PASO A PASO PARA SUBIR A GUMROAD:
 10. Publish
 
 LINK PARA COMPARTIR EN FACEBOOK:
-  Compra aquí tu copia → [TU_LINK_DE_GUMROAD]
+  Compra aquí tu copia → https://8748494706208.gumroad.com/l/jsruun
   + imagen de la portada
 """
