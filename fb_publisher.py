@@ -91,21 +91,48 @@ def publish_post(day=None):
         print("❌ No hay token de Facebook configurado en .env")
         return False
 
-    # Load posts
-    with open(BASE_DIR / "posts.json", "r", encoding="utf-8") as f:
+    # Determine ciclo and load posts
+    state_path = BASE_DIR / "state.json"
+    if state_path.exists():
+        with open(state_path) as f:
+            state = json.load(f)
+    else:
+        state = {}
+
+    current = state.get("current_day", 0)
+    cycle = state.get("cycles_completed", 0)
+
+    # Load correct ciclo file
+    if cycle == 0:
+        posts_file = BASE_DIR / "posts.json"
+    else:
+        posts_file = BASE_DIR / f"posts_ciclo{cycle + 1}.json"
+        if not posts_file.exists():
+            print(f"⚠️  {posts_file.name} no existe, usando posts.json")
+            posts_file = BASE_DIR / "posts.json"
+            cycle = 0
+
+    with open(posts_file, "r", encoding="utf-8") as f:
         posts = json.load(f)
 
     # Determine which post to publish
     if day is None:
-        state_path = BASE_DIR / "state.json"
-        if state_path.exists():
-            with open(state_path) as f:
-                state = json.load(f)
-            current = state.get("current_day", 0)
-        else:
-            current = 0
         if current >= len(posts):
             current = 0
+            cycle += 1
+            state["cycles_completed"] = cycle
+            # Try next ciclo file
+            next_posts_file = BASE_DIR / f"posts_ciclo{cycle + 1}.json"
+            if next_posts_file.exists():
+                with open(next_posts_file, "r", encoding="utf-8") as f:
+                    posts = json.load(f)
+            else:
+                # Reset to ciclo 1 if no more files
+                print(f"⚠️  {next_posts_file.name} no existe, reiniciando en posts.json")
+                cycle = 0
+                state["cycles_completed"] = 0
+                with open(BASE_DIR / "posts.json", "r", encoding="utf-8") as f:
+                    posts = json.load(f)
         post = posts[current]
     else:
         post = posts[day - 1]  # day is 1-indexed
@@ -120,10 +147,11 @@ def publish_post(day=None):
     # Format caption
     caption = format_caption(post)
 
-    print(f"📤 Publicando Día {post['day']}...")
+    print(f"📤 Publicando Día {post['day']} (Ciclo {cycle + 1})...")
     print(f"   Categoría: {post['category']}")
     print(f"   Autor: {post['author']}")
     print(f"   Imagen: {image_file.name}")
+    print(f"   Archivo: {posts_file.name}")
 
     # Publish
     result = publish_photo(page_id, token, str(image_file), caption)
